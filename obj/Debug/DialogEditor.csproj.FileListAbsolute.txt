@@ -1,0 +1,18 @@
+C:\RunUOv2\DialogNPC\obj\Debug\ResolveAssemblyReference.cache
+C:\RunUOv2\DialogNPC\bin\Debug\DialogEditor.exe
+C:\RunUOv2\DialogNPC\bin\Debug\DialogEditor.pdb
+C:\RunUOv2\DialogNPC\bin\Debug\ArtViewer.dll
+C:\RunUOv2\DialogNPC\bin\Debug\BoxCL.dll
+C:\RunUOv2\DialogNPC\bin\Debug\Ultima.dll
+C:\RunUOv2\DialogNPC\bin\Debug\UOFont.dll
+C:\RunUOv2\DialogNPC\obj\Debug\DialogEditor.exe
+C:\RunUOv2\DialogNPC\obj\Debug\DialogEditor.pdb
+C:\Ultima\Downloads\Arya\ dialognpc\obj\Debug\DialogEditor.exe
+C:\Ultima\Downloads\Arya\ dialognpc\obj\Debug\DialogEditor.pdb
+C:\Ultima\Downloads\Arya\ dialognpc\bin\Debug\DialogEditor.exe
+C:\Ultima\Downloads\Arya\ dialognpc\bin\Debug\DialogEditor.pdb
+C:\Ultima\Downloads\Arya\ dialognpc\bin\Debug\ArtViewer.dll
+C:\Ultima\Downloads\Arya\ dialognpc\bin\Debug\BoxCL.dll
+C:\Ultima\Downloads\Arya\ dialognpc\bin\Debug\Ultima.dll
+C:\Ultima\Downloads\Arya\ dialognpc\bin\Debug\UOFont.dll
+C:\Ultima\Downloads\Arya\ dialognpc\obj\Debug\DialogEditor.csprojResolveAssemblyReference.cache
